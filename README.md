@@ -20,8 +20,7 @@ Below is the BibTex for citing this snapshot of the repository.
 @misc{INN-mip-training,
   author =        {A. M. Bernardelli, and S. Gualandi, and S. Milanesi, and H. C. Lau, and N. Yorke-Smith},
   publisher =     {INFORMS Journal on Computing},
-  title =         {{Multi-Objective Linear Ensembles for Robust and Sparse Training of Few-Bit Neural Networks
-}},
+  title =         {{Multi-Objective Linear Ensembles for Robust and Sparse Training of Few-Bit Neural Networks}},
   year =          {2024},
   doi =           {10.1287/ijoc.2023.0281.cd},
   url =           {https://github.com/INFORMSJoC/2023.0281},
@@ -50,7 +49,7 @@ Fixed the training images *i* and the instance *j*, the file produces
 - `test_inn_i_j_weights.csv`
     for every network of the ensemble, the weights distribution is collected.
   
-The last file, `test_inn.csv`, contains results on accuracy and label statuses. All the results are obtained by h
+The last file, `test_inn.csv`, contains results on accuracy and label statuses. All the results are obtained by analizing the generated csv files.
 
 ## Results
 
