@@ -18,7 +18,7 @@ Below is the BibTex for citing this snapshot of the repository.
 
 ```
 @misc{INN-mip-training,
-  author =        {A. M. Bernardelli, and S. Gualandi, and S. Milanesi, and H. C. Lau, and N. Yorke-Smith},
+  author =        {Bernardelli, Ambrogio Maria and Gualandi, Stefano and Milanesi, Simone and Lau, Hoong Chuin and Yorke-Smith, Neil},
   publisher =     {INFORMS Journal on Computing},
   title =         {{Multi-Objective Linear Ensembles for Robust and Sparse Training of Few-Bit Neural Networks}},
   year =          {2024},
@@ -30,7 +30,7 @@ Below is the BibTex for citing this snapshot of the repository.
 
 ## Description
 
-The goal of this software is to train neural networks with integer weights with MILP models and to test their accuracy.
+The goal of this script is to train neural networks with integer weights with MILP models and to test their accuracy.
 
 ## Usage
 
